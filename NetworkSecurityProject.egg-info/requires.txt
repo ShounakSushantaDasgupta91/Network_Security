@@ -5,3 +5,4 @@ pymongo
 scikit-learn
 flask
 Certifi
+pymongo[srv]
