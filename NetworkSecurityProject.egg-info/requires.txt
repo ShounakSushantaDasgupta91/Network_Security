@@ -5,5 +5,3 @@ pymongo
 scikit-learn
 flask
 Certifi
-
--e .

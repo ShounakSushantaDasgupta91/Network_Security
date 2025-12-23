@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: NetworkSecurityProject
+Version: 0.0.1
+Author: Shounak Sushanta Dasgupta
+Author-email: shounaksushantadasgupta1991@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pymongo
+Requires-Dist: scikit-learn
+Requires-Dist: flask
+Requires-Dist: Certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
