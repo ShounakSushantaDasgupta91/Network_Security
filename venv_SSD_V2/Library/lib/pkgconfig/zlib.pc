@@ -1,0 +1,13 @@
+prefix=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/NetworkSecurity/venv_SSD_V2/Library
+exec_prefix=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/NetworkSecurity/venv_SSD_V2/Library
+libdir=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/NetworkSecurity/venv_SSD_V2/Library/lib
+sharedlibdir=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/NetworkSecurity/venv_SSD_V2/Library/lib
+includedir=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/NetworkSecurity/venv_SSD_V2/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
