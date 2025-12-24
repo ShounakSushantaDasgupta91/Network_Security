@@ -11,6 +11,9 @@ Requires-Dist: scikit-learn
 Requires-Dist: flask
 Requires-Dist: Certifi
 Requires-Dist: pymongo[srv]
+Requires-Dist: PyYAML
+Requires-Dist: mlflow
+Requires-Dist: dagshub
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist

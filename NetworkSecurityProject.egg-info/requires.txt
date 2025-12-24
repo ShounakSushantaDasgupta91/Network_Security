@@ -6,3 +6,6 @@ scikit-learn
 flask
 Certifi
 pymongo[srv]
+PyYAML
+mlflow
+dagshub
